@@ -57,3 +57,6 @@ body h5{
     font-size: 15px;
     font-weight: 500;
 }
+.collapse-plus input{
+    color: red;
+}
