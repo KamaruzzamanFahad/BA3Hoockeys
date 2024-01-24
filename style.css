@@ -54,9 +54,26 @@ body h5{
 }
 .ourmaindiv span{
     color: rgba(19, 19, 24, 0.60);
-    font-size: 15px;
     font-weight: 500;
+    margin: 5px 0px ;
 }
 .collapse-plus input{
     color: red;
 }
+@media screen and (max-width: 378px) {
+  .boxasbo{
+      padding: 15px !important;
+    
+  }
+  .arrowwoo{
+      bottom: 30px !important;
+  }
+}
+@media screen and (max-width: 472px) {
+    .arrowwoo{
+        bottom: 30px !important;
+    }
+    .spcarrds{
+        font-size: 20px !important;
+    }
+  }
